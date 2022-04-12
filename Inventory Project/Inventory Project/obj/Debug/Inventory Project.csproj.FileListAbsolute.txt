@@ -1,0 +1,14 @@
+C:\Users\OT4\source\new_repos\Inventory Project\Inventory Project\bin\Debug\Inventory Project.exe.config
+C:\Users\OT4\source\new_repos\Inventory Project\Inventory Project\bin\Debug\Inventory Project.exe
+C:\Users\OT4\source\new_repos\Inventory Project\Inventory Project\bin\Debug\Inventory Project.pdb
+C:\Users\OT4\source\new_repos\Inventory Project\Inventory Project\obj\Debug\Inventory Project.csproj.AssemblyReference.cache
+C:\Users\OT4\source\new_repos\Inventory Project\Inventory Project\obj\Debug\Inventory_Project.Form1.resources
+C:\Users\OT4\source\new_repos\Inventory Project\Inventory Project\obj\Debug\Inventory_Project.Properties.Resources.resources
+C:\Users\OT4\source\new_repos\Inventory Project\Inventory Project\obj\Debug\Inventory Project.csproj.GenerateResource.cache
+C:\Users\OT4\source\new_repos\Inventory Project\Inventory Project\obj\Debug\Inventory Project.csproj.CoreCompileInputs.cache
+C:\Users\OT4\source\new_repos\Inventory Project\Inventory Project\obj\Debug\Inventory Project.exe
+C:\Users\OT4\source\new_repos\Inventory Project\Inventory Project\obj\Debug\Inventory Project.pdb
+C:\Users\OT4\source\new_repos\Inventory Project\Inventory Project\obj\Debug\Inventory_Project.updatedList.resources
+C:\Users\OT4\source\new_repos\Inventory Project\Inventory Project\obj\Debug\Inventory_Project.modifyList.resources
+C:\Users\OT4\source\new_repos\Inventory Project\Inventory Project\obj\Debug\Inventory_Project.brands.resources
+C:\Users\OT4\source\new_repos\Inventory Project\Inventory Project\obj\Debug\Inventory_Project.requestForm.resources
