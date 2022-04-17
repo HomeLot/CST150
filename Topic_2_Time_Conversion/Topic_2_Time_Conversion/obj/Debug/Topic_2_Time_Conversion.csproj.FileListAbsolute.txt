@@ -1,0 +1,10 @@
+C:\Users\OT4\source\new_repos\Topic_2_Time_Conversion\Topic_2_Time_Conversion\obj\Debug\Topic_2_Time_Conversion.csproj.AssemblyReference.cache
+C:\Users\OT4\source\new_repos\Topic_2_Time_Conversion\Topic_2_Time_Conversion\obj\Debug\Topic_2_Time_Conversion.timeForm.resources
+C:\Users\OT4\source\new_repos\Topic_2_Time_Conversion\Topic_2_Time_Conversion\obj\Debug\Topic_2_Time_Conversion.Properties.Resources.resources
+C:\Users\OT4\source\new_repos\Topic_2_Time_Conversion\Topic_2_Time_Conversion\obj\Debug\Topic_2_Time_Conversion.csproj.GenerateResource.cache
+C:\Users\OT4\source\new_repos\Topic_2_Time_Conversion\Topic_2_Time_Conversion\obj\Debug\Topic_2_Time_Conversion.csproj.CoreCompileInputs.cache
+C:\Users\OT4\source\new_repos\Topic_2_Time_Conversion\Topic_2_Time_Conversion\bin\Debug\Topic_2_Time_Conversion.exe.config
+C:\Users\OT4\source\new_repos\Topic_2_Time_Conversion\Topic_2_Time_Conversion\bin\Debug\Topic_2_Time_Conversion.exe
+C:\Users\OT4\source\new_repos\Topic_2_Time_Conversion\Topic_2_Time_Conversion\bin\Debug\Topic_2_Time_Conversion.pdb
+C:\Users\OT4\source\new_repos\Topic_2_Time_Conversion\Topic_2_Time_Conversion\obj\Debug\Topic_2_Time_Conversion.exe
+C:\Users\OT4\source\new_repos\Topic_2_Time_Conversion\Topic_2_Time_Conversion\obj\Debug\Topic_2_Time_Conversion.pdb
