@@ -1,0 +1,10 @@
+C:\Users\OT4\source\new_repos\Chapter 4 Problems\2_Mass and Weight Problem\2_Mass and Weight Problem\obj\Debug\2_Mass and Weight Problem.csproj.AssemblyReference.cache
+C:\Users\OT4\source\new_repos\Chapter 4 Problems\2_Mass and Weight Problem\2_Mass and Weight Problem\obj\Debug\_2_Mass_and_Weight_Problem.weightCalculator.resources
+C:\Users\OT4\source\new_repos\Chapter 4 Problems\2_Mass and Weight Problem\2_Mass and Weight Problem\obj\Debug\_2_Mass_and_Weight_Problem.Properties.Resources.resources
+C:\Users\OT4\source\new_repos\Chapter 4 Problems\2_Mass and Weight Problem\2_Mass and Weight Problem\obj\Debug\2_Mass and Weight Problem.csproj.GenerateResource.cache
+C:\Users\OT4\source\new_repos\Chapter 4 Problems\2_Mass and Weight Problem\2_Mass and Weight Problem\obj\Debug\2_Mass and Weight Problem.csproj.CoreCompileInputs.cache
+C:\Users\OT4\source\new_repos\Chapter 4 Problems\2_Mass and Weight Problem\2_Mass and Weight Problem\bin\Debug\2_Mass and Weight Problem.exe.config
+C:\Users\OT4\source\new_repos\Chapter 4 Problems\2_Mass and Weight Problem\2_Mass and Weight Problem\bin\Debug\2_Mass and Weight Problem.exe
+C:\Users\OT4\source\new_repos\Chapter 4 Problems\2_Mass and Weight Problem\2_Mass and Weight Problem\bin\Debug\2_Mass and Weight Problem.pdb
+C:\Users\OT4\source\new_repos\Chapter 4 Problems\2_Mass and Weight Problem\2_Mass and Weight Problem\obj\Debug\2_Mass and Weight Problem.exe
+C:\Users\OT4\source\new_repos\Chapter 4 Problems\2_Mass and Weight Problem\2_Mass and Weight Problem\obj\Debug\2_Mass and Weight Problem.pdb

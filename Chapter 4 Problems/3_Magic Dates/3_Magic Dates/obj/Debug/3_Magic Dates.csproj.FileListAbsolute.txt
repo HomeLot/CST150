@@ -1,0 +1,10 @@
+C:\Users\OT4\source\new_repos\Chapter 4 Problems\3_Magic Dates\3_Magic Dates\bin\Debug\3_Magic Dates.exe.config
+C:\Users\OT4\source\new_repos\Chapter 4 Problems\3_Magic Dates\3_Magic Dates\bin\Debug\3_Magic Dates.exe
+C:\Users\OT4\source\new_repos\Chapter 4 Problems\3_Magic Dates\3_Magic Dates\bin\Debug\3_Magic Dates.pdb
+C:\Users\OT4\source\new_repos\Chapter 4 Problems\3_Magic Dates\3_Magic Dates\obj\Debug\3_Magic Dates.csproj.AssemblyReference.cache
+C:\Users\OT4\source\new_repos\Chapter 4 Problems\3_Magic Dates\3_Magic Dates\obj\Debug\_3_Magic_Dates.magicNumber.resources
+C:\Users\OT4\source\new_repos\Chapter 4 Problems\3_Magic Dates\3_Magic Dates\obj\Debug\_3_Magic_Dates.Properties.Resources.resources
+C:\Users\OT4\source\new_repos\Chapter 4 Problems\3_Magic Dates\3_Magic Dates\obj\Debug\3_Magic Dates.csproj.GenerateResource.cache
+C:\Users\OT4\source\new_repos\Chapter 4 Problems\3_Magic Dates\3_Magic Dates\obj\Debug\3_Magic Dates.csproj.CoreCompileInputs.cache
+C:\Users\OT4\source\new_repos\Chapter 4 Problems\3_Magic Dates\3_Magic Dates\obj\Debug\3_Magic Dates.exe
+C:\Users\OT4\source\new_repos\Chapter 4 Problems\3_Magic Dates\3_Magic Dates\obj\Debug\3_Magic Dates.pdb
