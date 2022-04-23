@@ -1,0 +1,20 @@
+C:\Users\OT4\source\new_repos\Topic_2_Time_Conversion\Topic_2_Time_Conversion\obj\Debug\Topic_2_Time_Conversion.csproj.AssemblyReference.cache
+C:\Users\OT4\source\new_repos\Topic_2_Time_Conversion\Topic_2_Time_Conversion\obj\Debug\Topic_2_Time_Conversion.timeForm.resources
+C:\Users\OT4\source\new_repos\Topic_2_Time_Conversion\Topic_2_Time_Conversion\obj\Debug\Topic_2_Time_Conversion.Properties.Resources.resources
+C:\Users\OT4\source\new_repos\Topic_2_Time_Conversion\Topic_2_Time_Conversion\obj\Debug\Topic_2_Time_Conversion.csproj.GenerateResource.cache
+C:\Users\OT4\source\new_repos\Topic_2_Time_Conversion\Topic_2_Time_Conversion\obj\Debug\Topic_2_Time_Conversion.csproj.CoreCompileInputs.cache
+C:\Users\OT4\source\new_repos\Topic_2_Time_Conversion\Topic_2_Time_Conversion\bin\Debug\Topic_2_Time_Conversion.exe.config
+C:\Users\OT4\source\new_repos\Topic_2_Time_Conversion\Topic_2_Time_Conversion\bin\Debug\Topic_2_Time_Conversion.exe
+C:\Users\OT4\source\new_repos\Topic_2_Time_Conversion\Topic_2_Time_Conversion\bin\Debug\Topic_2_Time_Conversion.pdb
+C:\Users\OT4\source\new_repos\Topic_2_Time_Conversion\Topic_2_Time_Conversion\obj\Debug\Topic_2_Time_Conversion.exe
+C:\Users\OT4\source\new_repos\Topic_2_Time_Conversion\Topic_2_Time_Conversion\obj\Debug\Topic_2_Time_Conversion.pdb
+D:\School Work\GCU 9-20-2021\4.4.22 - 5.22.22\CST-150 - Programming in C# I\Week 2\Topic_2_Activity_4\Topic_2_Activity_4\Topic_2_Time_Conversion\Topic_2_Time_Conversion\bin\Debug\Topic_2_Time_Conversion.exe.config
+D:\School Work\GCU 9-20-2021\4.4.22 - 5.22.22\CST-150 - Programming in C# I\Week 2\Topic_2_Activity_4\Topic_2_Activity_4\Topic_2_Time_Conversion\Topic_2_Time_Conversion\bin\Debug\Topic_2_Time_Conversion.exe
+D:\School Work\GCU 9-20-2021\4.4.22 - 5.22.22\CST-150 - Programming in C# I\Week 2\Topic_2_Activity_4\Topic_2_Activity_4\Topic_2_Time_Conversion\Topic_2_Time_Conversion\bin\Debug\Topic_2_Time_Conversion.pdb
+D:\School Work\GCU 9-20-2021\4.4.22 - 5.22.22\CST-150 - Programming in C# I\Week 2\Topic_2_Activity_4\Topic_2_Activity_4\Topic_2_Time_Conversion\Topic_2_Time_Conversion\obj\Debug\Topic_2_Time_Conversion.csproj.AssemblyReference.cache
+D:\School Work\GCU 9-20-2021\4.4.22 - 5.22.22\CST-150 - Programming in C# I\Week 2\Topic_2_Activity_4\Topic_2_Activity_4\Topic_2_Time_Conversion\Topic_2_Time_Conversion\obj\Debug\Topic_2_Time_Conversion.timeForm.resources
+D:\School Work\GCU 9-20-2021\4.4.22 - 5.22.22\CST-150 - Programming in C# I\Week 2\Topic_2_Activity_4\Topic_2_Activity_4\Topic_2_Time_Conversion\Topic_2_Time_Conversion\obj\Debug\Topic_2_Time_Conversion.Properties.Resources.resources
+D:\School Work\GCU 9-20-2021\4.4.22 - 5.22.22\CST-150 - Programming in C# I\Week 2\Topic_2_Activity_4\Topic_2_Activity_4\Topic_2_Time_Conversion\Topic_2_Time_Conversion\obj\Debug\Topic_2_Time_Conversion.csproj.GenerateResource.cache
+D:\School Work\GCU 9-20-2021\4.4.22 - 5.22.22\CST-150 - Programming in C# I\Week 2\Topic_2_Activity_4\Topic_2_Activity_4\Topic_2_Time_Conversion\Topic_2_Time_Conversion\obj\Debug\Topic_2_Time_Conversion.csproj.CoreCompileInputs.cache
+D:\School Work\GCU 9-20-2021\4.4.22 - 5.22.22\CST-150 - Programming in C# I\Week 2\Topic_2_Activity_4\Topic_2_Activity_4\Topic_2_Time_Conversion\Topic_2_Time_Conversion\obj\Debug\Topic_2_Time_Conversion.exe
+D:\School Work\GCU 9-20-2021\4.4.22 - 5.22.22\CST-150 - Programming in C# I\Week 2\Topic_2_Activity_4\Topic_2_Activity_4\Topic_2_Time_Conversion\Topic_2_Time_Conversion\obj\Debug\Topic_2_Time_Conversion.pdb
